@@ -1,0 +1,5 @@
+/home/jovyan/2270/Trie/build/CMakeFiles/rebuild_cache.dir
+/home/jovyan/2270/Trie/build/CMakeFiles/edit_cache.dir
+/home/jovyan/2270/Trie/build/CMakeFiles/test.dir
+/home/jovyan/2270/Trie/build/CMakeFiles/run_app.dir
+/home/jovyan/2270/Trie/build/CMakeFiles/run_tests.dir
